@@ -1,0 +1,47 @@
+.header {
+    background-color: #183118;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+.content {
+    margin: 15px;
+    padding: 20px;
+    border: 2px solid black; 
+    border-radius: 5px;
+}
+
+.footer {
+    background-color: #183118;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    
+    bottom: 0;
+    width: 100%;
+}
+
+.list {
+    margin: 15px;
+    padding: 10px; 
+    background-color: #838383 ;
+    border: 2px solid black; 
+    border-radius: 5px;
+}
+
+.list2 {
+    margin: 15px;
+    padding: 10px; 
+    background-color: #838383 ;
+    border: 2px solid black; 
+    border-radius: 5px;
+}
+
+h2:hover {
+    color: #383fa0;
+}
+
+h3:hover {
+    color: #383fa0;
+}
