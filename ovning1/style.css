@@ -1,3 +1,7 @@
+
+
+
+
 .header {
     background-color: #183118;
     color: white;
@@ -12,14 +16,18 @@
     border-radius: 5px;
 }
 
-.footer {
+
+footer {
+    display:flex;
+}
+.left1 {
     background-color: #183118;
     color: white;
     padding: 20px;
     text-align: center;
     
     bottom: 0;
-    width: 100%;
+    width: 97%;
 }
 
 .list {
