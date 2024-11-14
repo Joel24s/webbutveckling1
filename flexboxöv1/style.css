@@ -1,0 +1,42 @@
+header {
+    background-color: grey;
+    justify-content: center;
+    width: 100%; 
+    text-align: center;
+    padding:15px;
+    
+}
+
+.main {
+    display: flex;
+    flex:1 ;
+    
+    
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    height: 80%;
+    width: 60%;
+    margin: 40px auto; 
+
+}
+
+nav {
+    width: 25%;
+    background-color: lightgrey;
+    height: 400px;
+    
+    
+}
+
+
+
+footer {
+    background-color: grey;
+    text-align: center;
+    justify-content: center;
+    padding:15px;
+    width: 100%;
+}
