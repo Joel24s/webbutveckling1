@@ -1,0 +1,44 @@
+@media screen and (min-width: 794px) {
+	body 		{
+	background-color: purple;
+	margin: 2px;
+	}
+
+	h1 {
+		font-size: 50px;
+	}
+	
+	h2{
+		font-size: 50px;
+	}
+}
+
+@media screen and (min-width: 420px) {
+	body 		{
+	background-color: wheat;
+	margin: 2px;
+	}
+
+	h1 {
+		font-size: 50px;
+	}
+	
+	h2{
+		font-size: 50px;
+	}
+}
+@media screen and (min-width: 1020px) {
+	body 		{
+	background-color: deeppink;
+	margin: 2px;
+	max-width: 800px;
+	}
+
+	h1 {
+		font-size: 50px;
+	}
+	
+	h2{
+		font-size: 50px;
+	}
+}
